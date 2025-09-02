@@ -1,4 +1,4 @@
-👋 Hi, I’m Laura Barbero Cienfuegos
-👀 I’m interested in Web Development, Cybersecurity and Math.
-🌱 Spending Fall 2025 as an exchange student at SDSU.
-🎓 Studying a Double Degree in Computer Science and Mathematics at Universidad Autónoma de Madrid.
+- 👋 Hi, I’m Laura Barbero Cienfuegos
+- 👀 I’m interested in Web Development, Cybersecurity and Math.
+- 🌱 Spending Fall 2025 as an exchange student at SDSU.
+- 🎓 Studying a Double Degree in Computer Science and Mathematics at Universidad Autónoma de Madrid.
